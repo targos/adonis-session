@@ -1,5 +1,5 @@
 {
-  "name": "@adonisjs/session",
+  "name": "@targos/adonis-session",
   "version": "1.0.28",
   "description": "This repo is the official session provider for Adonisjs apps. It supports multiple drivers to store session data.",
   "main": "providers/SessionProvider",
